@@ -58,7 +58,7 @@
     {
       "id": 5,
       "name": "COD Black Ops 2",
-      "description": "continue the adventure of 2 soldiers Alex Mason and Frank Woods.",
+      "description": "continue the bo1 story.",
       "price": 60,
       "author_id": 3,
       "photo_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png"
@@ -66,7 +66,7 @@
     {
       "id": 6,
       "name": "COD 4 MODERN WARFARE",
-      "description": 50.000 people use to live here, now its a ghost town.",
+      "description": " one of the greatest cod games besides bo2",
       "price": 60,
       "author_id": 2,
       "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Call_of_Duty_4_Modern_Warfare.jpg/220px-Call_of_Duty_4_Modern_Warfare.jpg"
